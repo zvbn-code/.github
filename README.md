@@ -1,2 +1,2 @@
-# .github
-ZVBN Code
+# Code ZVBN
+Projekte des ZVBN zur Qualitätssicherung
